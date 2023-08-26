@@ -1,1 +1,2 @@
-# project_template
+# Projekttemplate für Abschlussarbeiten
+
